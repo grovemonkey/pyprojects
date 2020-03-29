@@ -20,8 +20,8 @@ Created on Sun Feb  2 16:34:04 2020
 # total = (my_name + age)
 # print(total) 
 
-# myname = 'sam'
-# lastname = 'thomas'
+# myname = 'Bill'
+# lastname = 'Smith'
 # print(myname.title() + " " + lastname.title())
 # animals = ['tiger', 'lion', 'cat', 'dog', 'chicken']
 # animals[-1] = 'wonderdog'
@@ -33,7 +33,7 @@ Created on Sun Feb  2 16:34:04 2020
 # substr = "YOUR"
 # substr2 = "hits"
 # substr3 = "Jan 19 14"
-# with open (r'C:\Users\Public\Daybreak Game Company\Installed Games\EverQuest II\logs\Skyfire\eq2log_kafeh.txt', 'r') as myfile:
+# with open (r'C:\Users\Public\Daybreak Game Company\Installed Games\EverQuest II\logs\Skyfire\file.txt', 'r') as myfile:
 #     for line in myfile:
 # 		linenum += 1
 #         if line.find(substr) != -1:
